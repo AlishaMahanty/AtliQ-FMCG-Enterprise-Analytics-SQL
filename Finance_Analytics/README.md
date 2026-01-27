@@ -32,6 +32,10 @@ Develop stored procedures for recurring financial reports to support scalability
 
 ## 🛠️ Implementation Notes
 
-- SQL queries are structured for financial reporting accuracy and consistency
-- Stored procedures (get_) are used to encapsulate reusable business logic
-- Query outputs are designed to be BI-tool ready (Power BI / Excel)
+- SQL queries are structured for **financial reporting accuracy and consistency**
+- Applied **aggregations and grouping** to calculate monthly and yearly gross sales
+- Implemented **layered financial calculations** for gross sales and revenue reporting
+- Used **custom fiscal year logic** to align reports with business accounting periods
+- Encapsulated business logic in **stored procedures (get_)** for reusable customer-level and fiscal reports
+- Performed **product-level and customer-level analysis** for revenue tracking
+- Query outputs are designed to be **BI-tool** ready for Power BI and Excel reporting
