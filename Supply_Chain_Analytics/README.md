@@ -30,9 +30,12 @@ Develop stored procedures to generate forecast accuracy reports for any fiscal y
 - Absolute Error
 - Forecast Accuracy %
 
-## 🛠️ Implementation Notes
+## 🛠️ Key Concepts & Techniques Used
 
-- Actual and forecast data are combined using a fact actual vs estimate table (fact_act_est_table)
-- Forecast accuracy logic is encapsulated in stored procedures (get_) for reuse
-- Queries are designed to support planning, inventory, and supply chain review meetings
-- Query output datasets are developed to be BI-tool ready (Power BI / Excel)
+- Combined **actual sales** and **forecast data** using a fact actual vs estimate table (fact_act_est_table)
+- Applied **aggregations** and **grouping** to calculate total sold and forecast quantities
+- Implemented **forecast error metrics** including **net error** and **absolute error**
+- Calculated **forecast accuracy percentage** using standardized formulas
+- Forecast accuracy logic is encapsulated in **stored procedures (get_)** for reusable supply chain reports
+- Performed **customer and market-level demand analysis** to support planning, inventory, and supply chain review meetings
+- Query output datasets are developed to be **BI-tool** ready for Power BI and Excel reporting
