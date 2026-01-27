@@ -35,4 +35,4 @@ Build stored procedures to generate forecast accuracy reports for any fiscal yea
 - Actual and forecast data are combined using a fact actual vs estimate table (fact_act_est_table)
 - Forecast accuracy logic is encapsulated in stored procedures (get_) for reuse
 - Queries are designed to support planning, inventory, and supply chain review meetings
-- Output datasets are BI-tool ready (Power BI / Excel)
+- Query output datasets are developed to be BI-tool ready (Power BI / Excel)
