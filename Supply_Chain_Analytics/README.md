@@ -2,25 +2,25 @@
 
 ## 📌 Business Context
 
-The Supply Chain Analytics module focuses on demand planning and forecast performance evaluation across customers and markets.
-The objective is to help business users assess how accurately demand forecasts align with actual sales, enabling better inventory planning and supply chain decision-making.
+The Supply Chain Analytics module focuses on **demand planning and forecast performance evaluation** across customers and markets.
+The objective is to help business users assess **how accurately demand forecasts align with actual sales**, enabling better inventory planning and supply chain decision-making.
 
 ## 🎯 Problem Statements Covered
 
 ### 1. Forecast Accuracy Report (Customer-Level)
-Generate an aggregate forecast accuracy report for all customers for a given fiscal year to evaluate how closely forecasted demand matches actual sales.
+Generate an **aggregate forecast accuracy report** for all customers for a given fiscal year to evaluate how closely forecasted demand matches actual sales.
 
 ### 2. Actual vs Forecast Quantity Comparison
-Compare total sold quantity against total forecast quantity to identify over-forecasting and under-forecasting patterns.
+Compare **total sold quantity** against **total forecast quantity** to identify over-forecasting and under-forecasting patterns.
 
 ### 3. Forecast Error Analysis
-Calculate net error and absolute error to measure demand variance and forecasting bias across customers and markets.
+Calculate **net error and absolute error** to measure demand variance and forecasting bias across customers and markets.
 
 ### 4. Forecast Accuracy Percentage Calculation
-Compute forecast accuracy % using standardized formulas to provide a clear and comparable KPI for demand planning performance.
+Compute **forecast accuracy %** using standardized formulas to provide a clear and comparable KPI for demand planning performance.
 
 ### 5. Reusable Supply Chain Reporting Logic
-Develop stored procedures to generate forecast accuracy reports for any fiscal year, ensuring reusability and consistency in supply chain analysis.
+Develop **stored procedures** to generate forecast accuracy reports for any fiscal year, ensuring reusability and consistency in supply chain analysis.
 
 ## 🧠 Key Supply Chain Metrics
 
@@ -35,7 +35,7 @@ Develop stored procedures to generate forecast accuracy reports for any fiscal y
 - Combined **actual sales** and **forecast data** using a fact actual vs estimate table (fact_act_est_table)
 - Applied **aggregations** and **grouping** to calculate total sold and forecast quantities
 - Implemented **forecast error metrics** including **net error** and **absolute error**
-- Calculated **forecast accuracy percentage** using standardized formulas
+- Calculated **forecast accuracy %** using standardized formulas
 - Forecast accuracy logic is encapsulated in **stored procedures (get_)** for reusable supply chain reports
 - Performed **customer and market-level demand analysis** to support planning, inventory, and supply chain review meetings
 - Query output datasets are developed to be **BI-tool** ready for Power BI and Excel reporting
