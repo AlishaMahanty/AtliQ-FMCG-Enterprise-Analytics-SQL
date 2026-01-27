@@ -30,7 +30,7 @@ Develop stored procedures for recurring financial reports to support scalability
 - Fiscal Year Sales Trends
 - Monthly Sales Trends
 
-## 🛠️ Implementation Notes
+## 🛠️ Key Concepts & Techniques Used
 
 - SQL queries are structured for **financial reporting accuracy and consistency**
 - Applied **aggregations and grouping** to calculate monthly and yearly gross sales
