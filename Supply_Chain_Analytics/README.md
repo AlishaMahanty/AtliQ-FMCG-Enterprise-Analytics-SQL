@@ -20,7 +20,7 @@ Calculate net error and absolute error to measure demand variance and forecastin
 Compute forecast accuracy % using standardized formulas to provide a clear and comparable KPI for demand planning performance.
 
 ### 5. Reusable Supply Chain Reporting Logic
-Build stored procedures to generate forecast accuracy reports for any fiscal year, ensuring reusability and consistency in supply chain analysis.
+Develop stored procedures to generate forecast accuracy reports for any fiscal year, ensuring reusability and consistency in supply chain analysis.
 
 ## 🧠 Key Supply Chain Metrics
 
