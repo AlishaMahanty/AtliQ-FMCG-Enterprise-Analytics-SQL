@@ -26,10 +26,11 @@ This project answers key business questions across three analytics domains:
 
 - Track monthly and yearly gross sales performance
 - Analyze product-level and customer-level revenue contribution
-- Implement custom fiscal year logic for financial reporting
+- Implement custom fiscal year logic for accurate financial reporting
 - Build reusable financial reports using stored procedures
+- Classify markets into performance badges (Gold / Silver) based on total quantity sold to identify high-volume markets
 
-➡️ Focus: “How much revenue are we generating and how is it distributed?”
+➡️ Focus: “How much revenue and sales volume are we generating, and how is it distributed across customers, products, and markets?”
 
 ### 2. [📈 Sales Analytics](https://github.com/AlishaMahanty/AtliQ-FMCG-Enterprise-Analytics-SQL/tree/main/Sales_Analytics)
 
@@ -56,7 +57,8 @@ This project answers key business questions across three analytics domains:
 ┣ 📂 Finance_Analytics
 ┃ ┗ Revenue tracking
 ┃ ┗ Fiscal year reporting
-┃ ┗ Financial analysis
+┃ ┗ Product, customer, and market-level financial analysis
+┃ ┗ Market performance badge logic
 ┃ ┗ Stored procedures automation
 ┣ 📂 Sales_Analytics
 ┃ ┗ Market, product and customer performance
@@ -64,8 +66,7 @@ This project answers key business questions across three analytics domains:
 ┃ ┗ Views for reusability
 ┃ ┗ Stored procedures automation
 ┣ 📂 Supply_Chain_Analytics
-┃ ┗ Forecast accuracy
-┃ ┗ Demand planning analysis
+┃ ┗ Forecast accuracy & Demand planning analysis
 ┃ ┗ Stored procedures automation
 ┣ 📄 README.md
 ```
@@ -101,7 +102,7 @@ This project answers key business questions across three analytics domains:
 ## 💡 Key Learnings:
 
 - Translating business problem statements into SQL solutions
-- Designing reusable and scalable queries using views and procedures
+- Designing reusable and scalable queries using views and stored procedures
 - Understanding how Finance, Sales, and Supply Chain analytics connect
 - Structuring SQL projects in an enterprise-friendly way
 
