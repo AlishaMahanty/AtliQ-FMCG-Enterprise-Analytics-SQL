@@ -24,13 +24,12 @@ This project answers key business questions across three analytics domains:
 
 ### 1. [💰 Finance Analytics](https://github.com/AlishaMahanty/AtliQ-FMCG-Enterprise-Analytics-SQL/tree/main/Finance_Analytics)
 
-- Track monthly and yearly gross sales performance
+- Track monthly and yearly gross sales performance with fiscal-year aligned reporting
 - Analyze product-level and customer-level revenue contribution
-- Implement custom fiscal year logic for accurate financial reporting
 - Build reusable financial reports using stored procedures
 - Classify markets into performance badges (Gold / Silver) based on total quantity sold to identify high-volume markets
 
-➡️ Focus: “How much revenue and sales volume are we generating, and how is it distributed across customers, products, and markets?”
+➡️ Focus: “How much revenue and sales volume are generated across customers, products, and markets?”
 
 ### 2. [📈 Sales Analytics](https://github.com/AlishaMahanty/AtliQ-FMCG-Enterprise-Analytics-SQL/tree/main/Sales_Analytics)
 
