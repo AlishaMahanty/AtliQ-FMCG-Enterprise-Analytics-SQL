@@ -60,7 +60,7 @@ This project answers key business questions across three analytics domains:
 ├── 📂 Supply_Chain_Analytics
 │   └── Forecast accuracy & demand planning analysis with stored procedures automation
 └── 📄 README.md
-```text
+```
 
 ##  📁 Each folder contains:
 
