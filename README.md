@@ -1,13 +1,13 @@
 # 📊 AtliQ FMCG Enterprise Analytics (SQL)
 
-## 📌 Project Overview
+## 📌 Project Overview:
 
 This project is an end-to-end SQL analytics solution built on an FMCG-style enterprise dataset for AtliQ.
 It covers Finance Analytics, Sales Analytics, and Supply Chain Analytics, simulating real-world business scenarios faced by data analysts in consumer goods organizations.
 
 The objective of this project is to transform raw transactional data into meaningful, business-ready insights that support decision-making across multiple functions.
 
-## 🏢 Business Context
+## 🏢 Business Context:
 
 AtliQ operates in a consumer goods (FMCG) environment with:
 
@@ -18,7 +18,7 @@ AtliQ operates in a consumer goods (FMCG) environment with:
 
 The dataset reflects common FMCG challenges such as revenue tracking, sales performance analysis, and forecast accuracy evaluation.
 
-## 🎯 Project Objectives
+## 🎯 Project Objectives:
 
 This project answers key business questions across three analytics domains:
 
@@ -49,7 +49,8 @@ This project answers key business questions across three analytics domains:
 
 ➡️ Focus: “How accurate is our demand forecasting?”
 
-## 🗂️ Repository Structure
+## 🗂️ Repository Structure:
+
 📦 AtliQ-FMCG-Enterprise-Analytics-SQL
  ┣ 📂 Finance_Analytics
  ┃ ┗ Revenue tracking, fiscal reporting, and financial analysis with stored procedures automation 
@@ -59,63 +60,44 @@ This project answers key business questions across three analytics domains:
  ┃ ┗ Forecast accuracy & demand planning analysis with stored procedures automation
  ┣ 📄 README.md
 
-
 ## Each folder contains:
 
 - Domain-specific SQL files
 - Stored procedures (get_) for reusable logic
-- A dedicated README explaining business context, problem statements, key matrices and concepts used
+- A dedicated README explaining business context, problem statements, key matrics and concepts used
 
-## 🛠️ Tools & Skills Used
+## 🛠️ Tools & Skills Used:
 
-SQL (MySQL)
+- SQL (MySQL)
+- SQL Basics
+- Joins, Subqueries, CTEs and Temporary Tables 
+- Window Functions (RANK, DENSE_RANK, OVER)
+- Aggregations & Grouping
+- Stored Procedures for report automation 
+- Views for reusable logic
+- Time Intelligence & Fiscal Year handling
+- Business KPI Modeling
 
-Joins, Subqueries, CTEs
+## 📈 Key Business Metrics Covered:
 
-Window Functions
+- Gross Sales
+- Net Sales
+- Sales Contribution %
+- Market Share %
+- Quantity Sold
+- Net Error & Absolute Error
+- Forecast Accuracy %
 
-Aggregations & Grouping
+## 💡 Key Learnings:
 
-Stored Procedures
+- Translating business problem statements into SQL solutions
+- Designing reusable and scalable queries using views and procedures
+- Understanding how Finance, Sales, and Supply Chain analytics connect
+- Structuring SQL projects in an enterprise-friendly way
 
-Views for reusable logic
-
-Time Intelligence & Fiscal Year handling
-
-Business KPI Modeling
-
-📈 Key Business Metrics Covered
-
-Gross Sales
-
-Net Sales
-
-Sales Contribution %
-
-Market Share %
-
-Quantity Sold
-
-Forecast Accuracy %
-
-Net Error & Absolute Error
-
-💡 Key Learnings
-
-Translating business problem statements into SQL solutions
-
-Designing reusable and scalable queries using views and procedures
-
-Understanding how Finance, Sales, and Supply Chain analytics connect
-
-Structuring SQL projects in an enterprise-friendly way
-
-🚀 Future Enhancements
+## 🚀 Future Enhancements:
 
 Power BI dashboards for Finance, Sales, and Supply Chain insights
-
 Profitability and margin analysis
-
 Automation of recurring reports
-
 Trend and YoY growth analysis
