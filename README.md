@@ -22,7 +22,7 @@ The dataset reflects common FMCG challenges such as revenue tracking, sales perf
 
 This project answers key business questions across three analytics domains:
 
-### 1. [💰](https://github.com/AlishaMahanty/AtliQ-FMCG-Enterprise-Analytics-SQL/tree/main/Finance_Analytics) Finance Analytics
+### 1. [💰 Finance Analytics](https://github.com/AlishaMahanty/AtliQ-FMCG-Enterprise-Analytics-SQL/tree/main/Finance_Analytics)
 
 - Track monthly and yearly gross sales performance
 - Analyze product-level and customer-level revenue contribution
@@ -31,7 +31,7 @@ This project answers key business questions across three analytics domains:
 
 ➡️ Focus: “How much revenue are we generating and how is it distributed?”
 
-### 2. [📈](https://github.com/AlishaMahanty/AtliQ-FMCG-Enterprise-Analytics-SQL/tree/main/Sales_Analytics) Sales Analytics
+### 2. [📈 Sales Analytics](https://github.com/AlishaMahanty/AtliQ-FMCG-Enterprise-Analytics-SQL/tree/main/Sales_Analytics)
 
 - Identify top markets, products, and customers by net sales
 - Analyze net sales contribution (market share contribution %) by customers and regions
@@ -40,7 +40,7 @@ This project answers key business questions across three analytics domains:
 
 ➡️ Focus: “Who and what is driving sales performance?”
 
-### 3. [🚚](https://github.com/AlishaMahanty/AtliQ-FMCG-Enterprise-Analytics-SQL/tree/main/Supply_Chain_Analytics) Supply Chain Analytics
+### 3. [🚚 Supply Chain Analytics](https://github.com/AlishaMahanty/AtliQ-FMCG-Enterprise-Analytics-SQL/tree/main/Supply_Chain_Analytics)
 
 - Compare actual sales vs forecasted demand
 - Measure net error, absolute error and forecast accuracy % 
