@@ -78,7 +78,7 @@ This project answers key business questions across three analytics domains:
 - Time Intelligence & Fiscal Year handling
 - Business KPI Modeling
 
-## 📈 Key Business Metrics Covered:
+## 🧠 Key Business Metrics Covered:
 
 - Gross Sales
 - Net Sales
@@ -97,7 +97,14 @@ This project answers key business questions across three analytics domains:
 
 ## 🚀 Future Enhancements:
 
-Power BI dashboards for Finance, Sales, and Supply Chain insights
-Profitability and margin analysis
-Automation of recurring reports
-Trend and YoY growth analysis
+- Power BI dashboards for Finance, Sales, and Supply Chain insights
+- Profitability and margin analysis
+- Automation of recurring reports
+- Trend and YoY growth analysis
+
+## 👤 Author
+
+**Alisha Mahanty**
+Aspiring Data Analyst | SQL | Power BI | Excel | Python | Tableau | AI Automation
+👉 [LinkedIn](https://www.linkedin.com/in/alishamahanty85/)
+👉 [Portfolio](https://codebasics.io/portfolio/Alisha-Mahanty)
