@@ -2,8 +2,8 @@
 
 ## 📌 Business Context
 
-The finance analytics module focuses on **revenue tracking and financial performance reporting** for key customers.
-The objective is to enable stakeholders to monitor **gross sales trends, fiscal year performance, and product-level revenue contribution** using standardized and reusable SQL reports.
+The finance analytics module focuses on **revenue tracking and financial performance reporting** for key customers and markets.
+The objective is to enable stakeholders to monitor **gross sales trends, fiscal year performance, product-level revenue contribution,and market performance indicators** using standardized and reusable SQL reports.
 
 ## 🎯 Problem Statements Covered
 
@@ -16,11 +16,14 @@ Generate an **aggregate monthly gross sales report** for a specific customer (e.
 ### 3. Yearly Gross Sales Report (Fiscal Year)
 Produce a **year-wise gross sales summary** for a customer, highlighting total gross sales per fiscal year to evaluate long-term revenue trends.
 
+### 4. Market Performance Badge Analysis
+Assign **market badges** based on **total quantity sold** in a fiscal year to identify high-volume markets and support quick market-level performance evaluation.
+
 ### 4. Financial Calendar & Fiscal Year Handling
-Implement reusable logic to derive **custom fiscal years** to ensure financial reports align with business accounting periods.
+Implement **reusable fiscal year logic** using SQL functions to ensure all financial reports align with business accounting periods instead of calendar years.
 
 ### 5. Reusable Financial Reporting Logic
-Develop **stored procedures** for recurring financial reports to support scalability, consistent and reusability financial analysis across reporting cycles.
+Develop **stored procedures** for recurring financial reports to ensure scalability, consistent and reusability financial analysis across reporting cycles.
 
 ## 🧠 Key Financial Metrics
 
@@ -29,13 +32,14 @@ Develop **stored procedures** for recurring financial reports to support scalabi
 - Product-Level Revenue
 - Fiscal Year Sales Trends
 - Monthly Sales Trends
+- Market Performance Indicators (Gold or Silver Badges) 
 
 ## 🛠️ Key Concepts & Techniques Used
 
 - SQL queries are structured for **financial reporting accuracy and consistency**
 - Applied **aggregations and grouping** to calculate monthly and yearly gross sales
-- Implemented **layered financial calculations** for gross sales and revenue reporting
-- Used **custom fiscal year logic** to align reports with business accounting periods
-- Encapsulated business logic in **stored procedures (get_)** for reusable customer-level and fiscal reports
-- Performed **product-level and customer-level analysis** for revenue tracking
+- Used **custom fiscal year logic** using SQL functions to align reports with business accounting periods
+- Encapsulated reusable business logic using **stored procedures (get_)** for customer-level and market-badges reports
+- Performed **product-level and customer-level analysis** to track revenue and sales trends
+- Implemented **market-level performance indicators** based on total quantity sold using business rules
 - Query outputs are designed to be **BI-tool** ready for Power BI and Excel reporting
