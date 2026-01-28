@@ -106,5 +106,6 @@ This project answers key business questions across three analytics domains:
 
 **Alisha Mahanty**
 Aspiring Data Analyst | SQL | Power BI | Excel | Python | Tableau | AI Automation
+
 👉 [LinkedIn](https://www.linkedin.com/in/alishamahanty85/)
 👉 [Portfolio](https://codebasics.io/portfolio/Alisha-Mahanty)
