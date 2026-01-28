@@ -54,11 +54,11 @@ This project answers key business questions across three analytics domains:
 ```text
 📦 AtliQ-FMCG-Enterprise-Analytics-SQL
 ┣ 📂 Finance_Analytics
- ┃ ┗ Revenue tracking, fiscal reporting, and financial analysis with stored procedures automation
+┃ ┗ Revenue tracking, fiscal reporting, and financial analysis with stored procedures automation
 ┣ 📂 Sales_Analytics
- ┃ ┗ Market, product, customer performance & ranking analysis with views and stored procedures automation
+┃ ┗ Market, product, customer performance & ranking analysis with views and stored procedures automation
 ┣ 📂 Supply_Chain_Analytics
- ┃ ┗ Forecast accuracy & demand planning analysis with stored procedures automation
+┃ ┗ Forecast accuracy & demand planning analysis with stored procedures automation
 ┣ 📄 README.md
 ```
 
