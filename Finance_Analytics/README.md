@@ -1,4 +1,4 @@
-# 📊 Finance Analytics
+# 💰 Finance Analytics
 
 ## 📌 Business Context
 
