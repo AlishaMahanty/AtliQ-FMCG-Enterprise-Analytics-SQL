@@ -22,7 +22,7 @@ The dataset reflects common FMCG challenges such as revenue tracking, sales perf
 
 This project answers key business questions across three analytics domains:
 
-### 1. 📊 Finance Analytics
+### 1. 💰 Finance Analytics
 
 - Track monthly and yearly gross sales performance
 - Analyze product-level and customer-level revenue contribution
