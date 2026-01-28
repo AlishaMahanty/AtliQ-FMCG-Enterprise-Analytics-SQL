@@ -51,6 +51,7 @@ This project answers key business questions across three analytics domains:
 
 ## 🗂️ Repository Structure:
 
+```text
 📦 AtliQ-FMCG-Enterprise-Analytics-SQL
 ├── 📂 Finance_Analytics
 │   └── Revenue tracking, fiscal reporting, and financial analysis with stored procedures automation
@@ -59,6 +60,7 @@ This project answers key business questions across three analytics domains:
 ├── 📂 Supply_Chain_Analytics
 │   └── Forecast accuracy & demand planning analysis with stored procedures automation
 └── 📄 README.md
+
 
 ##  📁 Each folder contains:
 
