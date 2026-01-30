@@ -8,7 +8,7 @@ The objective is to enable stakeholders to monitor **gross sales trends, fiscal 
 ## 🎯 Problem Statements Covered
 
 ### 1. Product-wise Sales Report (Fiscal Year)
-Generate a **product-level sales report aggregated monthly** for a given fiscal year to analyze individual product performance, quantities sold, and gross revenue contribution.
+Generate a **product-level sales report aggregated monthly** for a given customer and fiscal year to analyze individual product performance, quantities sold, and gross revenue contribution.
 
 ### 2. Monthly Gross Sales Report (Customer-Level)
 Generate an **aggregate monthly gross sales report** for a specific customer (e.g., Croma India) to track monthly revenue contribution and support customer relationship management.
