@@ -74,6 +74,7 @@ This project answers key business questions across three analytics domains:
 
 - Domain-specific SQL files
 - Stored procedures (get_) for reusable logic
+- Solution Reports in csv file
 - A dedicated README explaining business context, problem statements, key matrics and concepts used
 
 ## 🛠️ Tools & Skills Used:
