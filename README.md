@@ -74,7 +74,7 @@ This project answers key business questions across three analytics domains:
 
 - Domain-specific SQL files
 - Stored procedures (get_) for reusable logic
-- Sample Reports:CSV files generated from SQL queries, representing business-ready outputs for Excel and Power BI analysis.
+- Sample Reports: CSV files generated from SQL queries, representing business-ready outputs for Excel and Power BI analysis.
 - A dedicated README explaining business context, problem statements, key matrics and concepts used
 
 ## 🛠️ Tools & Skills Used:
